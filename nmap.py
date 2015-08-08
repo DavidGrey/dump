@@ -36,5 +36,4 @@ def nmap(start, end):
         print "\n"
         
     
-nmap(5, 12)
-
+#nmap(1, 24)
